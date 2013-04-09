@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springweb1.ibatis"
+  id="myeclipse.1292723152171"
+  context-root="/springweb1.ibatis"
+  j2ee-spec="5.0"
+  archive="springweb1.ibatis.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

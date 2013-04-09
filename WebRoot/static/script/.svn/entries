@@ -1,0 +1,43 @@
+8
+
+dir
+176
+https://192.168.0.254/svn/project/springweb/WebRoot/static/script
+https://192.168.0.254/svn/project
+
+
+
+2010-09-09T03:53:16.526400Z
+163
+fankai
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cf699da7-e909-7c40-a41e-ad989d08650e
+
+jquery.js
+file
+
+
+
+
+2010-09-09T01:29:46.687500Z
+65b352e1ba79f0e2a3b1e014bc2571af
+2010-09-09T01:18:11.725800Z
+148
+fankai
+
+kindedit
+dir
+
